@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @AMRodeApps
+- 👀 I’m interested in Learning new stuff evryday
+- 🌱 I’m currently learning React
